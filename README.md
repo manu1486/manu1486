@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I like people who hate me 🙂
 
 
-## Bots you can deploy <a href="https://github.com/manu1486/NandhukuttanV1"><img title="NANDHU-BOT" src="https://img.shields.io/static/v1?label=Nandhu&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE+&message=Bot&color=black"></a>
+## Bots you can deploy <a href="https://github.com/manu1486/Nandhukuttan-V1.git"><img title="NANDHU-BOT" src="https://img.shields.io/static/v1?label=Nandhu&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE+&message=Bot&color=black"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
