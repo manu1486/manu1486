@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with Nothing
 
-- 📫 How to reach [me](https://Wa.me/+917034958160?text=Hello%20P3P3%20Bro)
+- 📫 How to reach [me](https://Wa.me/+917034958160?text=Hello%20Aᴄʜᴜ%20ʙʀᴏ)
 - 💬 Ask me about my future projects 👽
 
 - ⚡ Fun fact: I like people who hate me 🙂
